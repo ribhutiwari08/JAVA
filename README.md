@@ -1,4 +1,4 @@
-# Java Projects Repository 🚀
+# Java Program Repository 🚀
 Welcome to the Java Projects Repository! This repository contains a collection of Java programs and projects that showcase my skills and understanding of Java programming, including Object-Oriented Programming (OOP) concepts, data structures, algorithms, and various other applications.
 
 # 🛠️ Technologies Used
